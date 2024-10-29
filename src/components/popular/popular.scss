@@ -1,0 +1,21 @@
+.popular{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 2cm;
+  hr{
+    width: 10%;
+    border: solid 2px var(--line);
+  }
+  .popular-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  margin-bottom: 2cm;
+}

@@ -1,0 +1,19 @@
+// we have to create a context file to filter out categories
+.text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3cm;
+  padding-bottom: 30px;
+  span{
+    color: var(--title-txt-color2);
+  }
+}
+.cat-items{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,40 @@
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  margin-top: 2cm;
+  width: 100%;
+  .hero-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1cm;
+    padding: 30px;
+    gap: 5cm;
+    width: 90%;
+    background: var(--bg-color);
+    .text{
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+    }
+    button{
+      background-color: var(--cta-color);
+      padding-block: 10px;
+      cursor: pointer;
+      border: none;
+      border-radius: 40px;
+      width: 50%;
+      box-shadow: 4px 4px 9px;
+      transition: .5s ease;
+      &:active{
+        background-color: var(--cta-color-active);
+        transform: scale(1.06);
+      }
+    }
+    img{
+      width: 500px;
+    }
+  }
+}

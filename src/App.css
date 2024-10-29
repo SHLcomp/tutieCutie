@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* shared css */
+.a{
+  text-decoration: none;
+  color: black;
+}
+
+/* root */
+:root{
+  --title-txt-color: black;
+  --title-txt-color2: #ff5bde;
+  --ten-color: #ff5bde;
+  --primary-color: gold;
+  --secondary-color: #5FFBF1;
+  --line: #FF4141;
+  --cta-color: #FF4141;
+  --cta-color-active: #ff8787;
+  --navbar-bg-color: white;
+  --bg-color: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+  --footer-bg-color: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+}
+
+/* importing other style pages */
+@import './components/navbar/Navbar.scss';
+@import './components/Hero/Hero.scss';
+@import './components/popular/popular.scss';
+@import './components/footer/Footer.scss';
+@import './components/breadcrum/Breadcrum.scss';

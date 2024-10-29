@@ -1,0 +1,23 @@
+.total{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 2cm;
+
+  button{
+    background-color: var(--cta-color);
+    padding-block: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    box-shadow: 4px 4px 9px;
+    transition: .5s ease;
+    &:active{
+      background-color: var(--cta-color-active);
+      transform: scale(1.06);
+    }
+  }
+}
