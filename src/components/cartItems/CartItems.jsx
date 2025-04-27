@@ -27,7 +27,7 @@ const CartItems = () => {
                 <p>${e.price}</p>
                 <button className='items-quantity'>{cartItem[e.id]}</button>
                 <p>${e.price*cartItem[e.id]}</p>
-                <i onClick={()=>{removeFromCart(e.id)}} class="fa-solid fa-trash"></i> 
+                <i onClick={()=>{removeFromCart(e.id)}} className="fa-solid fa-trash"></i> 
               </div>  
               <hr />
               </div>

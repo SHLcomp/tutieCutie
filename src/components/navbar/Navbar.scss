@@ -20,7 +20,7 @@ nav {
     span{
       color: var(--title-txt-color2);
     }
-  } //end
+  } 
 
   ul{
     display: flex;
@@ -28,7 +28,7 @@ nav {
 
     li{
       list-style: none;
-      // underline
+    
       hr{
         border: none;
         width: 100%;
@@ -36,14 +36,14 @@ nav {
         border-radius: 10px;
         background-color: var(--line);
       }
-    } //end of li
+    }
     .a{
       transition: .3s ease;
     }
     .a:hover {
       color: var(--title-txt-color2);
     }    
-  } /* end of ul */
+  }
 
   .login{
     display: flex;
@@ -61,7 +61,7 @@ nav {
         transform: scale(1.1);
       }
     } 
-    // cart icon img
+    
     img{
       cursor: pointer;
     }

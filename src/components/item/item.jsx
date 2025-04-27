@@ -15,7 +15,7 @@ const item = (props) => {
 
         <div className="item-btns">
           <button>Add to cart</button>  
-          <i class="fa-solid fa-heart"></i>
+          <i className="fa-solid fa-heart"></i>
         </div>
         
       </div>

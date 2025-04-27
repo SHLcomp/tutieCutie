@@ -18,7 +18,7 @@ function App() {
       <Navbar />
 
       <Routes>
-      <Route path='/' element={<Shop />}></Route> {/* added the home page */}
+      <Route path='/tutieCutie' element={<Shop />}></Route> {/* added the home page */}
       <Route path='/mens' element={<ShopCat category="mens"/>}></Route>
       <Route path='/womens' element={<ShopCat category="womens"/>}></Route>
       <Route path='/kids' element={<ShopCat category="kids"/>}></Route>

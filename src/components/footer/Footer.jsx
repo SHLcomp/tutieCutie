@@ -46,9 +46,9 @@ const Footer = () => {
 
         </div>
         <div className="social-media">
-        <i class="fa-brands fa-square-instagram"></i>
-        <i class="fa-brands fa-square-facebook"></i>
-        <i class="fa-brands fa-linkedin"></i>
+        <i className="fa-brands fa-square-instagram"></i>
+        <i className="fa-brands fa-square-facebook"></i>
+        <i className="fa-brands fa-linkedin"></i>
         </div>
       </footer>
     </div>
