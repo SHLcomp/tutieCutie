@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutieCutie/static/css/main.0dab1958.css",
+    "main.js": "/tutieCutie/static/js/main.db2135e6.js",
+    "static/js/453.8ab44547.chunk.js": "/tutieCutie/static/js/453.8ab44547.chunk.js",
+    "static/media/blue t-shirt.jpg": "/tutieCutie/static/media/blue t-shirt.a391693187d65570d669.jpg",
+    "static/media/long dress2.jpg": "/tutieCutie/static/media/long dress2.3c7c8d779d3093ba06fd.jpg",
+    "static/media/long dress3.jpg": "/tutieCutie/static/media/long dress3.ea67e4897ea81766c819.jpg",
+    "static/media/cool person2.jpg": "/tutieCutie/static/media/cool person2.581a96c3a84c14ca5e99.jpg",
+    "static/media/cool person.jpg": "/tutieCutie/static/media/cool person.b2e266b83a787cc5b7b6.jpg",
+    "static/media/red shoes.jpg": "/tutieCutie/static/media/red shoes.aa8584f19c9a88fb4fa1.jpg",
+    "static/media/logo1.jpg": "/tutieCutie/static/media/logo1.4a8b4904f060d639b6f7.jpg",
+    "static/media/cart.jpg": "/tutieCutie/static/media/cart.0420e0551f2472a0f2b8.jpg",
+    "index.html": "/tutieCutie/index.html",
+    "main.0dab1958.css.map": "/tutieCutie/static/css/main.0dab1958.css.map",
+    "main.db2135e6.js.map": "/tutieCutie/static/js/main.db2135e6.js.map",
+    "453.8ab44547.chunk.js.map": "/tutieCutie/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dab1958.css",
+    "static/js/main.db2135e6.js"
+  ]
+}
